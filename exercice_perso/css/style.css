@@ -1,0 +1,38 @@
+body {
+    background-color: #E1E1E1; color: #007689;
+    font-family: "Century Schoolbook";
+    text-align:center;
+
+}
+p{
+    text-align: left;
+    margin-left: 42%;
+    margin-top:1%;
+}
+input.waves-button-input{
+    padding-bottom: 9px ;
+    padding-top: 9px ;
+}
+/*formulaire*/
+#b2b-expiration-date input , #b2b-fullname input,#b2b-cvv input, #b2b-email input{
+    background-color: #F6F7F7;
+}
+
+#B2B-FORM{
+    background-color: #F6F7F7;
+    margin-top:2%;  margin-left: 5%; margin-right: 5%; margin-bottom: 2%;
+}
+
+iframe#a_masquer
+{
+    width:1200px;
+    height: 1205px;
+    border: 0;
+    margin-left: 20%;
+}
+
+th{
+   text-align: left;
+}
+
+

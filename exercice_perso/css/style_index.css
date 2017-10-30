@@ -1,0 +1,19 @@
+body{
+    background-color: #E1E1E1; color: #007689;
+    text-align: center;
+    font-family: "Century Schoolbook";
+}
+
+center {
+    text-align: center;
+}
+
+div#crd.card-content{
+    margin-left: 40%;
+    margin-top: 5%;
+    text-align: center;
+}
+input.waves-button-input{
+
+    margin-bottom: 2%;
+}
